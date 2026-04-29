@@ -14,6 +14,6 @@ Cybersecurity Portfolio: SOC Analysis and Incident Response, Linux hardening and
 * **Description:** Conducted deep packet inspection to identify malicious network behavior and potential data exfiltration.
 * **Deliverables:**
   * **Traffic Analysis exercise PCAP File:** Raw network traffic data containing the identified anomalies for independent verification.
-  * **Wireshark traffic Analysis Report:** A technical breakdown of the investigation, documenting the transition from detection to confirmed data exfiltration.
-  * **Wireshark Tutorial:** A detailed guide covering display filters, sorting,searching, and packet dissection techniques.
+  * **Wireshark Traffic Analysis Report:** A technical breakdown of the investigation, documenting the transition from detection to confirmed data exfiltration.
+  * **Wireshark Tutorial:** A detailed guide covering display filters, sorting, searching, and packet dissection techniques.
 * **Documentation:** [Click here to view Reports](./Wireshark)
